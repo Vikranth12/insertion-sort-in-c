@@ -3,7 +3,7 @@
     #include<string.h>
     #include<math.h>
     
-    void bubble(int *arr,int n)
+    void insertion_sort(int *arr,int n)
     {
         for(int i=0;i<n;i++)
         {
